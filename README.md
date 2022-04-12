@@ -13,7 +13,7 @@ The dataset has been curated by webscraping relevant results from three e-commer
 4. Move the downloaded features to static/feature. 
 5. Next, the fine tuned model is to be downloaded from the drive link: [Model](https://drive.google.com/file/d/1v97HJSsV7PcVfwmE-p9FG6C22l8nkjXb/view?usp=sharing)
 6. Create a new folder called output and place the downloaded model in output. 
-7. Download the indexed tree set up for annoy indexing from the drive link: [Image Indexing](https://drive.google.com/drive/folders/1FshtcFaYzAmRJzRCJn2OutILbajUgDGp?usp=sharing)
+7. Download the indexed tree set up for annoy indexing from the drive link: [Image Indexing](https://drive.google.com/file/d/1HiqRnXXkKdYZK4EV7gYovaNrUTk9tmVP/view?usp=sharing)
 8. The Flask interface now has been set up with corresponding folders.
 9. Run server.py to get the desired web interface for performing reverse image search. 
 
